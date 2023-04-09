@@ -1,6 +1,9 @@
 # macos
 .DS_Store
 
+# testing env
+bin*
+
 # datasets
 data*
 
