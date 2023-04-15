@@ -4,6 +4,9 @@
 # testing env
 bin*
 
+# models pkl
+*.pkl
+
 # datasets
 data*
 
